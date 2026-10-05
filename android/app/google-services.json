@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106680220330",
+    "project_id": "bizmapcabuyao",
+    "storage_bucket": "bizmapcabuyao.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106680220330:android:e99df32476c7bc8af0aed3",
+        "android_client_info": {
+          "package_name": "com.bizmapcabuyao.bizmapcabuyao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_iZbmIQPysHOkSDc14QyG-y05P9lq4SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
